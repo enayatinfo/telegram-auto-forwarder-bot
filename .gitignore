@@ -1,0 +1,6 @@
+*.session
+/venv
+/.idea
+/.fandogh
+image_maker.txt
+Dockerfile
